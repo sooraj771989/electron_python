@@ -1,0 +1,21 @@
+# Virtualenv
+*.pyc
+.Python
+bin
+lib
+include
+local
+*.py[cod]
+myfiles/*
+myfiles_csv/*
+node_modules/*
+
+# Mac OS X custom attribute files
+.DS_Store
+__pycache__
+files/*
+uploads/*
+static/output/*
+petl/*
+.vscode/*
+share/
